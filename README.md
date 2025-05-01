@@ -1,4 +1,7 @@
 [![images-3.jpg](https://i.postimg.cc/D0VVTFBt/images-3.jpg)](https://postimg.cc/qhGDcffL)
+
+
+https://wokwi.com/projects/429769366017985537
 # الكود:
 cpp
 #include <LiquidCrystal_I2C.h>
